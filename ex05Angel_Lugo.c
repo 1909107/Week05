@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* Programa: Dibujar un cuadrado formado con asteriscos de 4x4*/
 int main()
 {
     int x,y,num;
