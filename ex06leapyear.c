@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/* Programa:Calcular cualquier año introducido y determinar si es biciesto o no*/
  int A;
 
 int main(void){
