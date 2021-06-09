@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/*Programa: Obtiene las cantidades invertidas y los porcentajes correspondientes a cada una de tres personas que decidieron invertir conjuntamente,con respecto al total*/
 int main(void){
   float angel, christian, Mayo, x, total, porangel, porchristian, porMayo;
   printf("El dinero que le pertenece a angel\n");
