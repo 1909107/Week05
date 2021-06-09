@@ -1,4 +1,5 @@
 #include<stdio.h>
+/*Programa:Cualquier numero introducido, sera convertido a los valores de salida de horas,minutos y segundos */
 #include<math.h>
 int main() {
     float horas, minutos, segundos;
