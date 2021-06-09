@@ -1,7 +1,5 @@
 #include <stdio.h> 
-  //** Programa:Calcular_cilindro/
-   //* Cálculo del Área y el volumen de un cilindro */
-   
+  //** Programa: Cálculo del Área y el volumen de un cilindro */
    int main() {
      const float PI = 3.14159265;
      float radio, altura, area, volumen;
